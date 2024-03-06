@@ -1,0 +1,5 @@
+city:region:country:population
+Taipei:asia:Taiwan:2300
+Southborough:MA:United States:9686
+Northbridge:MA:United States:14061
+Westborough:MA:United States:29313
